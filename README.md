@@ -1,76 +1,89 @@
 <div align="center">
 
-# 👋 Inam Ali Soomro
+# Inam Ali Soomro | Full Stack Developer | Web Developer Pakistan
 
-### Full Stack Developer • Co-Founder @ Inbyo Tech
-**Building innovative digital products with modern web technologies**
+### BS Computer Science Student • Co-Founder of Inbyo Tech • Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Crafting+Digital+Solutions;Passionate+About+Learning" />
+<p>
+Full Stack Developer from Pakistan specializing in Web Development, React, JavaScript, C#, HTML, CSS, Node.js, and modern digital solutions.
+</p>
 
 </div>
 
 ---
+   
+# 👨‍💻 Inam Ali Soomro
 
-## 💼 About Me
+Welcome to my GitHub profile! I am **Inam Ali Soomro**, a Full Stack Developer, Software Developer, Web Developer, and Computer Science student from Pakistan.
 
-I'm a full-stack developer and co-founder passionate about creating meaningful digital products. Currently pursuing my **BSCS degree at University of Balochistan**, I combine academic knowledge with practical experience in web development and open-source contribution.
+If you search for **Inam Ali Soomro**, **Inam Soomro**, **Full Stack Developer Pakistan**, **Web Developer Pakistan**, or **Inbyo Tech**, this profile represents my professional work, projects, and technical journey.
 
-```js
-const inam = {
-    location: "🇵🇰 Pakistan",
-    education: "BSCS @ University of Balochistan",
-    role: "Co-Founder @ Inbyo Tech",
-    languages: ["JavaScript", "C#", "C", "HTML", "CSS"],
-    specialization: ["Full Stack Web Dev", "UI/UX Design", "Open Source"],
-    currentlyLearning: ["React", "Node.js", "System Design"],
-    interestsIn: ["Web Development", "Digital Innovation", "Tech Community"]
-};
-```
+## 🚀 About Inam Ali Soomro
 
----
+- Full Name: **Inam Ali Soomro**
+- Location: Pakistan
+- Education: **BS Computer Science (BSCS)** – University of Balochistan
+- Position: **Co-Founder – Inbyo Tech**
+- Profession: Full Stack Developer
+- Interests: Software Engineering, Web Development, UI/UX, Open Source, Startups, Technology Innovation
 
-## 🛠️ Tech Stack
+## 💻 Technical Skills
 
-**Frontend:** JavaScript • React • HTML5 • CSS3  
-**Backend:** C# • Node.js  
-**Languages:** JavaScript • C# • C  
-**Tools & Platforms:** Git • GitHub • VS Code
+### Frontend Development
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Web Design
 
----
+### Backend Development
+- Node.js
+- Express.js
+- C#
 
-## 🚀 What I Do
+### Programming Languages
+- JavaScript
+- C#
+- C
 
-- 🎨 Design and build user-friendly web applications
-- 💻 Develop full-stack solutions from concept to deployment
-- 🌐 Contribute to open-source projects
-- 📚 Share knowledge and collaborate with developer communities
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- REST APIs
+- Database Design
 
----
+## 🏢 About Inbyo Tech
 
-## 🎯 Currently
+Inbyo Tech is a technology startup focused on:
 
-- Building products at **Inbyo Tech**
-- Expanding my expertise in modern web frameworks
+- Website Development
+- Search Engine Optimization (SEO)
+- Digital Marketing
+- Software Development
+- Business Automation
+- Modern Digital Solutions
+
+## 🎯 Current Focus
+
+- Building scalable web applications
+- Learning advanced system design
+- Growing Inbyo Tech
 - Contributing to open-source projects
-- Always exploring new technologies and best practices
+- Exploring AI-powered solutions
+
+## 📈 Professional Goals
+
+My goal is to become a highly skilled Software Engineer and entrepreneur by creating impactful digital products and helping businesses establish a strong online presence.
+
+## 🔥 Keywords
+
+Inam Ali Soomro, Inam Soomro, Full Stack Developer, Software Engineer, Web Developer, React Developer, JavaScript Developer, C# Developer, Pakistan Developer, University of Balochistan, BSCS Student, Inbyo Tech Founder, SEO Expert, Digital Marketing, Website Development, Open Source Contributor.
 
 ---
-
-<!-- ## 📫 Get In Touch
-
-Feel free to reach out if you'd like to collaborate, discuss ideas, or just chat about tech!
-
-- 📧 Email: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [@YourHandle]
-- 🌐 Portfolio: [Your Portfolio]
-
---- -->
 
 <div align="center">
 
-### ⭐ If you find my work interesting, don't forget to star some repos!
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=inamalisoomro.inamalisoomro)
+### Thanks for visiting the profile of Inam Ali Soomro
 
 </div>
