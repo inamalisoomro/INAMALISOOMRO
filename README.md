@@ -13,7 +13,7 @@
 
 ## 💼 About Me
 
-I'm a full-stack developer and co-founder passionate about creating meaningful digital products. Currently pursuing my **BSCS degree at University of Balochistan**, I combine academic knowledge with practical experience in web development and open-source contribution.
+ hey devs my Name is Inam ALi Soomro . I'm a full-stack developer and co-founder passionate about creating meaningful digital products. Currently pursuing my **BSCS degree at University of Balochistan**, I combine academic knowledge with practical experience in web development and open-source contribution.
 
 ```js
 const inam = {
