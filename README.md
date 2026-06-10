@@ -14,11 +14,11 @@
 
 <!-- Social & Profile Badges -->
 <p>
-  <a href="https://github.com/inamalisoomro">
-    <img src="https://img.shields.io/github/followers/inamalisoomro?label=Follow+%40inamalisoomro&style=for-the-badge&logo=github&color=00C2FF&labelColor=0d1117" alt="GitHub followers - Inam Ali Soomro" />
+  <a href="https://github.com/INAMALISOOMRO">
+    <img src="https://img.shields.io/github/followers/INAMALISOOMRO?label=Follow+%40INAMALISOOMRO&style=for-the-badge&logo=github&color=00C2FF&labelColor=0d1117" alt="GitHub followers - Inam Ali Soomro" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=inamalisoomro&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS" alt="Profile Views - Inam Ali Soomro Inbyo Tech" />
+  <img src="https://komarev.com/ghpvc/?username=INAMALISOOMRO&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS" alt="Profile Views - Inam Ali Soomro Inbyo Tech" />
   &nbsp;
   <img src="https://img.shields.io/badge/Inbyo%20Tech-Founder%20%26%20CEO-00C2FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="Inbyo Tech Founder and CEO" />
 </p>
@@ -45,7 +45,7 @@ const inamAliSoomro = {
 };
 ```
 
-I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://github.com/inbyo-tech)**, building innovative digital products with modern web technologies. Currently pursuing my **BSCS at the University of Balochistan**, I blend academic depth with hands-on engineering across the full stack — from pixel-perfect UIs to scalable backend systems.
+I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://inbyotech.com)**, building innovative digital products with modern web technologies. Currently pursuing my **BSCS at the University of Balochistan**, I blend academic depth with hands-on engineering across the full stack — from pixel-perfect UIs to scalable backend systems. Check out my work at **[inamalisoomro.vercel.app](https://inamalisoomro.vercel.app)**.
 
 ---
 
@@ -91,15 +91,15 @@ I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://github.c
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inamalisoomro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=ffffff&icon_color=7928CA" alt="Inam Ali Soomro GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=INAMALISOOMRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=ffffff&icon_color=7928CA" alt="Inam Ali Soomro GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamalisoomro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=ffffff" alt="Inam Ali Soomro Most Used Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INAMALISOOMRO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=ffffff" alt="Inam Ali Soomro Most Used Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inamalisoomro&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=7928CA&fire=00C2FF&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="Inam Ali Soomro GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=INAMALISOOMRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=7928CA&fire=00C2FF&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="Inam Ali Soomro GitHub Streak" />
 
 </div>
 
@@ -109,7 +109,7 @@ I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://github.c
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=inamalisoomro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Inam Ali Soomro GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=INAMALISOOMRO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Inam Ali Soomro GitHub Trophies" />
 
 </div>
 
@@ -128,8 +128,9 @@ I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://github.c
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/@inamalisoomro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inamalisoomro)
-[![Inbyo Tech](https://img.shields.io/badge/Inbyo%20Tech-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/inbyo-tech)
+[![GitHub](https://img.shields.io/badge/@INAMALISOOMRO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INAMALISOOMRO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-inamalisoomro.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://inamalisoomro.vercel.app/)
+[![Inbyo Tech](https://img.shields.io/badge/Inbyo%20Tech-inbyotech.com-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)](https://inbyotech.com)
 
 </div>
 
@@ -138,7 +139,7 @@ I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://github.c
 <!-- Activity Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inamalisoomro&bg_color=0d1117&color=00C2FF&line=7928CA&point=ffffff&area=true&hide_border=true" width="100%" alt="Inam Ali Soomro GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=INAMALISOOMRO&bg_color=0d1117&color=00C2FF&line=7928CA&point=ffffff&area=true&hide_border=true" width="100%" alt="Inam Ali Soomro GitHub Contribution Graph" />
 
 </div>
 
@@ -149,5 +150,6 @@ I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://github.c
   SEO Keywords: Inam Ali Soomro, Inbyo Tech, Founder CEO Inbyo Tech,
   Full Stack Developer Pakistan, BSCS University of Balochistan,
   JavaScript Developer Pakistan, React Developer, Node.js Developer,
-  Founder Inbyo Tech, CEO Inbyo Tech, inamalisoomro GitHub, Inbyo Tech GitHub
+  Founder Inbyo Tech, CEO Inbyo Tech, INAMALISOOMRO GitHub,
+  inbyotech.com, inamalisoomro.vercel.app, Inam Ali Soomro portfolio
 -->
