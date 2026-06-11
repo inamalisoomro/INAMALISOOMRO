@@ -136,7 +136,7 @@ I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://inbyotec
 
 ---
 
-
+<!-- Activity Graph -->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=INAMALISOOMRO&bg_color=0d1117&color=00C2FF&line=7928CA&point=ffffff&area=true&hide_border=true" width="100%" alt="Inam Ali Soomro GitHub Contribution Graph" />
