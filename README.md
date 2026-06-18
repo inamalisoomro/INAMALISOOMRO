@@ -212,10 +212,4 @@ inbyotech.com
 inamalisoomro.vercel.app
 -->
 
-<!-- 
-  SEO Keywords: Inam Ali Soomro, Inbyo Tech, Founder CEO Inbyo Tech,
-  Full Stack Developer Pakistan, BSCS University of Balochistan,
-  JavaScript Developer Pakistan, React Developer, Node.js Developer,
-  Founder Inbyo Tech, CEO Inbyo Tech, INAMALISOOMRO GitHub,
-  inbyotech.com, inamalisoomro.vercel.app, Inam Ali Soomro portfolio
--->
+
