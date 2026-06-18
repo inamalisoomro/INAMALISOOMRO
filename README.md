@@ -6,7 +6,7 @@
 </h1>
 
 <p>
-  <strong>Inam Ali Soomro</strong> · Full Stack Developer · Founder & CEO @ <strong>Inbyo Tech</strong> · Pakistan 🇵🇰
+  <strong>Inam Ali Soomro</strong> · Founder & CEO of <strong>Inbyo Tech</strong> · Full Stack Developer · Software Engineer · Pakistan 🇵🇰
 </p>
 
 ## 🚀 Founder & CEO of Inbyo Tech
