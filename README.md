@@ -11,7 +11,7 @@
 
 ## 🚀 Founder & CEO of Inbyo Tech
 
-Hello! I'm **Inam Ali Soomro**, a **Full Stack Developer** and the **Founder & CEO of Inbyo Tech**, a Pakistan-based software development and digital solutions company.
+**Inam Ali Soomro is the Founder and CEO of Inbyo Tech**, a software development, web development, and SEO company based in Pakistan. Through Inbyo Tech, he builds websites, software solutions, mobile applications, and digital growth strategies for businesses.
 
 ### About Inbyo Tech
 
