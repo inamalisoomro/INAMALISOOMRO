@@ -9,6 +9,45 @@
   <strong>Inam Ali Soomro</strong> · Full Stack Developer · Founder & CEO @ <strong>Inbyo Tech</strong> · Pakistan 🇵🇰
 </p>
 
+## 🚀 Founder & CEO of Inbyo Tech
+
+Hello! I'm **Inam Ali Soomro**, a **Full Stack Developer** and the **Founder & CEO of Inbyo Tech**, a Pakistan-based software development and digital solutions company.
+
+### About Inbyo Tech
+
+**Inbyo Tech** specializes in helping businesses establish a strong digital presence through modern technologies and data-driven strategies.
+
+### Our Services
+
+* 🌐 Professional Web Development
+* 📈 Search Engine Optimization (SEO)
+* 📱 Mobile App Development
+* 🎨 UI/UX Design
+* ⚙️ Custom Software Development
+* 🚀 Business Growth Solutions
+
+### Technologies I Work With
+
+As the Founder & CEO of Inbyo Tech, I actively develop and manage projects using:
+
+* React.js
+* Next.js
+* Node.js
+* JavaScript
+* HTML5 & CSS3
+* C#
+* Git & GitHub
+
+### Official Links
+
+🌐 Website: https://inbyotech.com
+
+💼 Portfolio: https://inamalisoomro.vercel.app
+
+💻 GitHub: https://github.com/INAMALISOOMRO
+
+My goal is to create innovative software solutions, contribute to the developer community, and help businesses succeed online through technology and SEO.
+
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7928CA&height=120&section=header&text=Welcome+to+my+GitHub&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Inam Ali Soomro GitHub Profile" />
 
