@@ -145,6 +145,33 @@ I'm a **full-stack developer**, **Founder & CEO of [Inbyo Tech](https://inbyotec
 
 <!-- Animated footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00C2FF&height=100&section=footer" width="100%" alt="footer" />
+<!--
+SEO Keywords:
+
+Inam Ali Soomro
+Inam Ali Soomro GitHub
+Inam Ali Soomro Portfolio
+Founder of Inbyo Tech
+CEO of Inbyo Tech
+Inbyo Tech Founder
+Inbyo Tech CEO
+Founder and CEO Inbyo Tech
+Inbyo Tech Pakistan
+Inbyo Tech Quetta
+Full Stack Developer Pakistan
+React Developer Pakistan
+Next.js Developer Pakistan
+Node.js Developer Pakistan
+JavaScript Developer Pakistan
+Software Engineer Pakistan
+Web Developer Pakistan
+SEO Expert Pakistan
+BSCS University of Balochistan
+University of Balochistan
+INAMALISOOMRO GitHub
+inbyotech.com
+inamalisoomro.vercel.app
+-->
 
 <!-- 
   SEO Keywords: Inam Ali Soomro, Inbyo Tech, Founder CEO Inbyo Tech,
