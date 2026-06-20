@@ -48,6 +48,7 @@ As the Founder & CEO of Inbyo Tech, I actively develop and manage projects using
 
 My goal is to create innovative software solutions, contribute to the developer community, and help businesses succeed online through technology and SEO.
 
+Inam Ali Soomro!
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7928CA&height=120&section=header&text=Welcome+to+my+GitHub&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Inam Ali Soomro GitHub Profile" />
 
